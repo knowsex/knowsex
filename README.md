@@ -8,6 +8,6 @@
 
 ---
 
-[KnowSex.net](https://knowsex.net/) is a sex education website for teenagers. It supports Smiplified Chinese now.
+[KnowSex.net](https://knowsex.net/) is a sex education website. It supports Smiplified Chinese now.
 
 You can contact us with [sending e-mail to knowsex@outlook.net](mailto:knowsex@outlook.com) .
