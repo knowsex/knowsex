@@ -1,5 +1,3 @@
-![封面](cover.png)
-
 知性（KnowSex）是一个性教育网站，为中学生及以上群体年龄段提供性教育知识科普📕。
 
 网站域名为 🔗 [knowsex.net](https://knowsex.net/) 。
